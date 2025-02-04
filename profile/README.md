@@ -1,13 +1,13 @@
-## 2025-CodeIT-Cup-Chaeum
+## 2025-Advanced-Capstone-Chaeum
 
-채움: 선결제 기부 플랫폼
+채움: 게이미피케이션을 도입한 기부 플랫폼
 
 <br>
 
 ## 🗓️ Development Period
 
 - **Planning:** 2025.01.02 ~
-- **Development:** 미정 
+- **Development:** 2025.02.xx ~ 
 
 <br>
 
@@ -23,17 +23,23 @@
 <table>
 <thead>
 <tr>
-<th align="center">BE</th>
-<th align="center">BE</th>
-<th align="center">FE</th>
-<th align="center">FE</th>
+<td align="center">FE</td>
+<td align="center">FE</td>
+<td align="center">BE</td>
+<td align="center">BE</td>
+<td align="center">BE</td>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="center" style="padding: 20px;">
-  <a href="https://github.com/Gyoung-0" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://avatars.githubusercontent.com/u/126968510?v=4" alt="김경영" width="120" height="120" style="max-width: 100%;">
+  <a href="https://github.com/park-aeri" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://avatars.githubusercontent.com/u/xxxxxxx?v=4" alt="박애리" width="120" height="120" style="max-width: 100%;">
+  </a>
+</td>
+<td align="center" style="padding: 20px;">
+  <a href="https://github.com/hyun-jihyun" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://avatars.githubusercontent.com/u/xxxxxxx?v=4" alt="현지현" width="120" height="120" style="max-width: 100%;">
   </a>
 </td>
 <td align="center" style="padding: 20px;">
@@ -53,7 +59,8 @@
 </td>
 </tr>
 <tr>
-<td align="center">김경영</td>
+<td align="center">박애리</td>
+<td align="center">현지현</td>
 <td align="center">김민상</td>
 <td align="center">노형준</td>
 <td align="center">송재훈</td>
