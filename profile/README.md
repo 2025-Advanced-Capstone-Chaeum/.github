@@ -3,8 +3,8 @@
 # [🫧 채움] 게이미피케이션과 자동화를 적용한 기부형 크라우드 펀딩
 
 ---
+![CHAEUM](https://github.com/user-attachments/assets/149f35a3-f4c9-4ae4-bb3b-8271c43297d9)
 
-![CHAEUM](https://github.com/user-attachments/assets/e3731b9d-840f-421d-8263-53c52e5d32e6)
 
 ## **🫧 채움이란?**
 
@@ -60,17 +60,18 @@
 <td align="center">BE</td>
 <td align="center">BE</td>
 <td align="center">BE</td>
+<td align="center">AI</td>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="center" style="padding: 20px;">
-  <a href="https://github.com/park-aeri" target="_blank" rel="noopener noreferrer nofollow">
+  <a href="https://github.com/Aeri0730" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://avatars.githubusercontent.com/u/145256349?v=4" alt="박애리" width="120" height="120" style="max-width: 100%;">
   </a>
 </td>
 <td align="center" style="padding: 20px;">
-  <a href="https://github.com/hyun-jihyun" target="_blank" rel="noopener noreferrer nofollow">
+  <a href="https://github.com/Jihyeoniiiii" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://avatars.githubusercontent.com/u/105184159?v=4" alt="현지현" width="120" height="120" style="max-width: 100%;">
   </a>
 </td>
@@ -89,6 +90,11 @@
     <img src="https://avatars.githubusercontent.com/u/128021502?v=4" alt="송재훈" width="120" height="120" style="max-width: 100%;">
   </a>
 </td>
+  <td align="center" style="padding: 20px;">
+  <a href="https://github.com/Beomjoon0027" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://avatars.githubusercontent.com/u/128021502?v=4" alt="김범" width="120" height="120" style="max-width: 100%;">
+  </a>
+</td>
 </tr>
 <tr>
 <td align="center">박애리</td>
@@ -96,6 +102,7 @@
 <td align="center">김민상</td>
 <td align="center">노형준</td>
 <td align="center">송재훈</td>
+<td align="center">김범준</td>
 </tr>
 </tbody>
 </table>
