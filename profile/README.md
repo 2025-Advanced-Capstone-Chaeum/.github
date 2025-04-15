@@ -92,7 +92,7 @@
 </td>
   <td align="center" style="padding: 20px;">
   <a href="https://github.com/Beomjoon0027" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://avatars.githubusercontent.com/u/128021502?v=4" alt="김범" width="120" height="120" style="max-width: 100%;">
+    <img src="https://avatars.githubusercontent.com/u/202206043?v=4" alt="김범" width="120" height="120" style="max-width: 100%;">
   </a>
 </td>
 </tr>
