@@ -1,10 +1,10 @@
-# [🫧 Chaeum] 게이미피케이션이 적용된 개인형 크라우드 펀딩 기부 플랫폼
+# [🔗 CHAEUM](https://chaeum.site): 게이미피케이션이 적용된 개인형 크라우드 펀딩 기부 플랫폼
 
 ![CHAEUM](https://github.com/user-attachments/assets/149f35a3-f4c9-4ae4-bb3b-8271c43297d9)
 
 ---
 
-## 🖼️ 1. Project Poster
+## 🧾 1. Project Poster
 
 <p align="center">
   <img width="1000" src="https://github.com/user-attachments/assets/b529855d-fd7a-43a6-8c43-d9330624b712" alt="Chaeum Poster" />
@@ -15,7 +15,7 @@
 ## 💡 2. What is "채움"?
 
 > **채움**은 수혜자가 필요한 물품을 등록하고 목표 금액을 설정하여 채워나가는 **기부형 크라우드 펀딩 플랫폼**입니다.  
-> 기존 기부 방식의 **불투명성 문제**와 **빈곤 포르노 논란**을 해결하고,  
+> 기존 기부 방식의 **불투명성 문제**와 **빈곤 포르노 논란**을 해결하고,
 > 수혜자의 **존엄성**을 지키면서도 기부자가 **즐겁게 참여**할 수 있도록  
 > **게이미피케이션**과 **자동화 시스템**을 도입했습니다.
 
@@ -26,7 +26,7 @@
 - **프로젝트명**: 채움 (CHAEUM)  
 - **과목명**: 2025 Advanced Capstone Design (KGU)  
 - **팀 구성**: `프론트엔드 2` `백엔드 2` `AI 2`  
-- **배포 링크**: [🔗 예시 링크](https://chaeum.site)
+- **배포 링크**: [🔗 Chaeum 바로가기](https://chaeum.site)
 
 ---
 
@@ -46,23 +46,23 @@
 
 ## 🎬 6. Demonstration
 
-### 📹 6-1. Demo Videos
+### ▶️ 6-1. Demo Videos
 <table>
   <tr>
     <td align="center">
-      <p><strong>수혜자 영상</strong></p>
-      <video src="https://github.com/user-attachments/assets/ae000d62-d4db-4458-8d74-e019e36b52d2" controls width="400"></video>
+      <p><strong>기부자 영상</strong></p>
+      <video src="https://github.com/user-attachments/assets/a2d9993d-2909-4d25-a04b-7469ec4a68d2" controls width="450"></video>
     </td>
     <td align="center">
-      <p><strong>기부자 영상</strong></p>
-      <video src="https://github.com/user-attachments/assets/a2d9993d-2909-4d25-a04b-7469ec4a68d2" controls width="400"></video>
+      <p><strong>수혜자 영상</strong></p>
+      <video src="https://github.com/user-attachments/assets/ae000d62-d4db-4458-8d74-e019e36b52d2" controls width="450"></video>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🖼️ 6-2. Screenshots
+### 📸 6-2. Screenshots
 
 > (추후 추가 예정)
 
@@ -150,4 +150,3 @@
 </tbody>
 </table>
 </div>
-
