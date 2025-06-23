@@ -1,7 +1,5 @@
 # [🔗 CHAEUM](https://chaeum.site): 게이미피케이션이 적용된 개인형 크라우드 펀딩 기부 플랫폼
 
-![CHAEUM](https://github.com/user-attachments/assets/149f35a3-f4c9-4ae4-bb3b-8271c43297d9)
-
 ---
 
 ## 🧾 1. Project Poster
